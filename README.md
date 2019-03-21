@@ -2,9 +2,11 @@
 * Standard programs everyone needs automatic instalation.
 
 ````
-sudo apt-get install git
+sudo -i
+echo passwort
+apt-get install git
 git clone https://github.com/hendr15k/Linux-Ultimate/
 cd Linux-Ultimate
 chmod +x installall.sh
-sudo sh installall.sh
+sh installall.sh
 ````
