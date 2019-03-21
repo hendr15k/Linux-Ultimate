@@ -4,6 +4,8 @@ echo Installation is started
 
 chmod +x spotify.sh
 chmod +x gimp.sh
+chmod +x libre.sh
 
-sudo ./spotify.sh
-sudo ./gimp.sh
+sudo sh spotify.sh
+sudo sh gimp.sh
+sudo sh libre.sh
