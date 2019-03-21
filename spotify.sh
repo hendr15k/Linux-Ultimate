@@ -11,3 +11,6 @@ sudo apt-get update
 
 # 4. Install Spotify
 sudo apt-get install spotify-client
+
+# 5. Fix
+sudo apt-get install -f
